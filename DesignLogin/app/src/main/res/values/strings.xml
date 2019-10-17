@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Design Login</string>
+    <string name="create_your_naccount">Create your account</string>
+    <string name="add_your_nphoto">Add your Photo</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="e_mail">E-mail</string>
+    <string name="user_name">User name</string>
+    <string name="password">Password</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="already_have_an_account">Already have an account ?</string>
+    <string name="login">Login.</string>
+    <string name="back"><![CDATA[<- Back]]></string>
+    <string name="log_in">Log in</string>
+    <string name="bt_log_in">Log In</string>
+    <string name="first_time_here">First time here ?</string>
+    <string name="log_in_activity1">Log in.</string>
+    <string name="sign_up">Sign up.</string>
+    <string name="todo">TODO</string>
+    <string name="congratulations">Congratulations !</string>
+</resources>
